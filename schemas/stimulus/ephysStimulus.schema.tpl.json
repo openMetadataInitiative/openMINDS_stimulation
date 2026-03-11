@@ -1,9 +1,6 @@
 {
   "_type": "stimulation:EphysStimulus",
   "_extends": "stimulus/stimulus.schema.tpl.json",
-  "required": [
-    "type"
-  ],
   "properties": {
     "type": {
       "_instruction": "Add the type that describe this electrical stimulus.",
