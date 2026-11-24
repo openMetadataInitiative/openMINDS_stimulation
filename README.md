@@ -11,7 +11,7 @@
 [![GitHub][license-shield]][license-url]
 [![GitHub contributors][contributors-shield]][contributors-url]
 
-The **openMINDS_stimulation** repository hosts one of the schema modules of the openMINDS metadata framework that builds the overall openMINDS metadata model. It is composed of modular metadata schemas for in-depth descriptions of stimuli and stimulation protocols in neuroscience.
+The **openMINDS_stimulation** repository hosts one of the schema modules of the **openMINDS metadata framework** that build the overall openMINDS metadata model. It is composed of modular metadata schemas for in-depth descriptions of stimuli and stimulation protocols in neuroscience.
 
 To generally learn more about the openMINDS metadata framework please go to :arrow_right: [**ReadTheDocs**][docu-url].  
 There you can also explore directly the :arrow_right: [**openMINDS_stimulation schema specifications**][docu-stimulation-url].
